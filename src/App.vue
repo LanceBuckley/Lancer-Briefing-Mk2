@@ -106,6 +106,11 @@ export default {
         {
           "slug": "003",
           "name": "Floodgate",
+          "status": "success"
+        },
+        {
+          "slug": "003",
+          "name": "Last Castle",
           "status": "start"
         },
       ],
