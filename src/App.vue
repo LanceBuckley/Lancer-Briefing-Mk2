@@ -109,7 +109,7 @@ export default {
           "status": "success"
         },
         {
-          "slug": "003",
+          "slug": "004",
           "name": "Last Castle",
           "status": "start"
         },
