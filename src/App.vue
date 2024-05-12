@@ -110,14 +110,19 @@ export default {
         },
         {
           "slug": "004",
-          "name": "Last Castle",
-          "status": "start"
+          "name": "Rallying Cry",
+          "status": "success"
         },
+        {
+          "slug": "005",
+          "name": "Split-Knuckle Haymaker",
+          "status": "success"
+        }
       ],
       // The callsign and mech must match their .md and .png names exactly
       "pilots": [
         {
-          "callsign": "ironwall",
+          "callsign": "iron wall",
           "alias": "Vort",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "IPS-N",
@@ -125,7 +130,7 @@ export default {
           "mech": "Gouf"
         },
         {
-          "callsign": "redrobin",
+          "callsign": "red robin",
           "alias": "Mark",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "SSC",
@@ -133,7 +138,7 @@ export default {
           "mech": "PurpleRobin"
         },
         {
-          "callsign": "mammothdischarge",
+          "callsign": "mammoth discharge",
           "alias": "Vincenzo Santorini",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "IPS-N",
