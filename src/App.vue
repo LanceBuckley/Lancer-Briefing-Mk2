@@ -129,16 +129,16 @@ export default {
           "alias": "Claudio von Steimer",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "SSC",
-          "frame": "Monarch",
-          "mech": "Alondite"
+          "frame": "Swallotail",
+          "mech": "PurpleRobin"
         },
         {
           "callsign": "grimm",
           "alias": "Kierra Blackwood",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "SSC",
-          "frame": "Death's Head",
-          "mech": "Revenant"
+          "corpro": "IPS-N",
+          "frame": "Drake",
+          "mech": "MammothDischargeV2"
         },
       ],
       "header": {
